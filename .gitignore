@@ -1,0 +1,8 @@
+*.zip
+checkpoints/**
+monet_*
+photo_*
+submit_images/**
+.ipynb_checkpoints/**
+
+.DS_Store
